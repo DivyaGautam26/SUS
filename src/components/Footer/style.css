@@ -1,0 +1,74 @@
+/* Footer Styles */
+.text-center {
+  text-align: center;
+}
+
+.text-lg-start {
+  text-align: left;
+}
+
+.bg-body-tertiary {
+  background-color: #f8f9fa; /* Replace with your desired color */
+}
+
+.text-muted {
+  color: #6c757d; /* Replace with your desired color */
+}
+
+.d-flex {
+  display: flex;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.justify-content-lg-between {
+  justify-content: space-between;
+}
+
+.p-3 {
+  padding: 0.75rem;
+}
+
+.border-bottom {
+  border-bottom: 1px solid #dee2e6; /* Replace with your desired color */
+}
+
+.me-3 {
+  margin-right: 0.75rem;
+}
+
+.d-none {
+  display: none;
+}
+
+.d-lg-block {
+  display: block;
+}
+
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.mt-3 {
+  margin-top: 1px;
+}
+
+.mb-2 {
+  margin-bottom: 1px;
+}
+
+.mb-md-0 {
+  margin-bottom: 0;
+}
+
+.p-2 {
+  padding: 0.5px;
+}
+
+/* Add more styles as needed */
